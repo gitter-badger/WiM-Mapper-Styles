@@ -1,5 +1,7 @@
 ## WiM-Mapper-Styles
 
+[![Join the chat at https://gitter.im/USGS-WiM/WiM-Mapper-Styles](https://badges.gitter.im/USGS-WiM/WiM-Mapper-Styles.svg)](https://gitter.im/USGS-WiM/WiM-Mapper-Styles?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Styling for generator-wim generated mapping apps
 
 ### To compile base.css
