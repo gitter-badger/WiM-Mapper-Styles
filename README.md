@@ -7,10 +7,10 @@ Styling for generator-wim generated mapping apps
 #### 1.  Install required software
 ```bash
 npm install -g less
-```
 
 #### 2.  Compile CSS
 ```bash
+npm install
 cd less
 lessc base.less ../css/base.css
 ```
