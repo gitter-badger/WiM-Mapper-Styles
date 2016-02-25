@@ -1,0 +1,21 @@
+{
+  "name": "WiM-Mapper-Styles",
+  "homepage": "https://github.com/marsmith/WiM-Mapper-Styles",
+  "authors": [
+    "Marty <marsmith@usgs.gov>"
+  ],
+  "description": "Styling for generator-wim generated mapping apps",
+  "main": [
+    "./css/base.css",
+    "./less/*"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
