@@ -1,0 +1,18 @@
+{
+  "name": "wim-mapper-styles",
+  "version": "0.0.1",
+  "homepage": "https://github.com/USGS-WiM/WiM-Mapper-Styles",
+  "repository": "https://github.com/USGS-WiM/WiM-Mapper-Styles",
+  "authors": [
+    "Martyn Smith <marsmith@usgs.gov>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.6.2",
+    "gulp-git": "^1.2.1",
+    "gulp-bump": "^0.3.0",
+    "del": "^1.1.1",
+    "semver": "^4.3.3",
+    "gulp-less": "^3.0.5"
+  }
+}
